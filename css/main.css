@@ -556,3 +556,7 @@ padding: 40px 15px;
 #navbar-main {
 	display: none;
 }
+
+#top {
+	margin-top: -90px;
+}
